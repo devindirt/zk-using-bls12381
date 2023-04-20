@@ -13,4 +13,4 @@ Usage issues (can be fixed): https://github.com/iden3/snarkjs/issues/122
 
 
 A working example of this on top of Aeternity's FATE (Virtual Machine) using Sophia programming language. Run `static_verification` to perform verification operation using static values (proof & public output)
-https://gist.github.com/genievot/9d9e248714795fc6e48dcba9b8b00680#file-bls12_381_latest_verifier-aes-L2
+https://gist.github.com/VitalJeevanjot/9d9e248714795fc6e48dcba9b8b00680#file-bls12_381_latest_verifier-aes-L2
